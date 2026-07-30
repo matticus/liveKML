@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>KML Export 7/30/2026 7:35:33 PM</name>
+    <name>KML Export 7/30/2026 7:40:33 PM</name>
     <Style id="style_emergency">
       <IconStyle>
         <colorMode>normal</colorMode>
@@ -52,18 +52,18 @@
         <visibility>true</visibility>
         <description />
         <TimeStamp>
-          <when>2026-07-30T19:26:45Z</when>
+          <when>2026-07-30T19:36:45Z</when>
         </TimeStamp>
         <styleUrl>#style_6606925</styleUrl>
         <ExtendedData>
           <Data name="Id">
-            <value>988095058</value>
+            <value>988101727</value>
           </Data>
           <Data name="Time UTC">
-            <value>7/30/2026 7:26:45 PM</value>
+            <value>7/30/2026 7:36:45 PM</value>
           </Data>
           <Data name="Time">
-            <value>7/30/2026 7:26:45 PM</value>
+            <value>7/30/2026 7:36:45 PM</value>
           </Data>
           <Data name="Name">
             <value>Liz Howell </value>
@@ -81,19 +81,19 @@
             <value />
           </Data>
           <Data name="Latitude">
-            <value>36.623643</value>
+            <value>36.624158</value>
           </Data>
           <Data name="Longitude">
-            <value>-105.080516</value>
+            <value>-105.084443</value>
           </Data>
           <Data name="Elevation">
-            <value>2331.20 m from MSL</value>
+            <value>2350.27 m from MSL</value>
           </Data>
           <Data name="Velocity">
             <value>4.0 km/h</value>
           </Data>
           <Data name="Course">
-            <value>292.50 ° True</value>
+            <value>337.50 ° True</value>
           </Data>
           <Data name="Valid GPS Fix">
             <value>True</value>
@@ -108,7 +108,7 @@
             <value />
           </Data>
           <Data name="Event">
-            <value>Tracking interval received.</value>
+            <value>Tracking message received.</value>
           </Data>
           <Data name="Device Identifier">
             <value />
@@ -120,7 +120,7 @@
         <Point>
           <extrude>false</extrude>
           <altitudeMode>absolute</altitudeMode>
-          <coordinates>-105.080516,36.623643,2331.2</coordinates>
+          <coordinates>-105.084443,36.624158,2350.27</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -130,7 +130,7 @@
         <styleUrl>#linestyle_6606925</styleUrl>
         <LineString>
           <tessellate>true</tessellate>
-          <coordinates>-105.080516,36.623643,2331.2</coordinates>
+          <coordinates>-105.084443,36.624158,2350.27</coordinates>
         </LineString>
       </Placemark>
     </Folder>
