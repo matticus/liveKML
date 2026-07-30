@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>KML Export 7/30/2026 12:50:33 AM</name>
+    <name>KML Export 7/30/2026 12:55:33 AM</name>
     <Style id="style_emergency">
       <IconStyle>
         <colorMode>normal</colorMode>
@@ -52,18 +52,18 @@
         <visibility>true</visibility>
         <description />
         <TimeStamp>
-          <when>2026-07-30T00:42:00Z</when>
+          <when>2026-07-30T00:52:00Z</when>
         </TimeStamp>
         <styleUrl>#style_6606925</styleUrl>
         <ExtendedData>
           <Data name="Id">
-            <value>987709090</value>
+            <value>987712945</value>
           </Data>
           <Data name="Time UTC">
-            <value>7/30/2026 12:42:00 AM</value>
+            <value>7/30/2026 12:52:00 AM</value>
           </Data>
           <Data name="Time">
-            <value>7/30/2026 12:42:00 AM</value>
+            <value>7/30/2026 12:52:00 AM</value>
           </Data>
           <Data name="Name">
             <value>Liz Howell </value>
@@ -81,13 +81,13 @@
             <value />
           </Data>
           <Data name="Latitude">
-            <value>36.623256</value>
+            <value>36.623268</value>
           </Data>
           <Data name="Longitude">
-            <value>-105.041098</value>
+            <value>-105.041013</value>
           </Data>
           <Data name="Elevation">
-            <value>2188.64 m from MSL</value>
+            <value>2201.95 m from MSL</value>
           </Data>
           <Data name="Velocity">
             <value>0.0 km/h</value>
@@ -120,7 +120,7 @@
         <Point>
           <extrude>false</extrude>
           <altitudeMode>absolute</altitudeMode>
-          <coordinates>-105.041098,36.623256,2188.64</coordinates>
+          <coordinates>-105.041013,36.623268,2201.95</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -130,7 +130,7 @@
         <styleUrl>#linestyle_6606925</styleUrl>
         <LineString>
           <tessellate>true</tessellate>
-          <coordinates>-105.041098,36.623256,2188.64</coordinates>
+          <coordinates>-105.041013,36.623268,2201.95</coordinates>
         </LineString>
       </Placemark>
     </Folder>
