@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>KML Export 8/1/2026 6:15:33 PM</name>
+    <name>KML Export 8/1/2026 6:20:33 PM</name>
     <Style id="style_emergency">
       <IconStyle>
         <colorMode>normal</colorMode>
@@ -52,18 +52,18 @@
         <visibility>true</visibility>
         <description />
         <TimeStamp>
-          <when>2026-08-01T18:07:30Z</when>
+          <when>2026-08-01T18:17:30Z</when>
         </TimeStamp>
         <styleUrl>#style_6606925</styleUrl>
         <ExtendedData>
           <Data name="Id">
-            <value>989162805</value>
+            <value>989169160</value>
           </Data>
           <Data name="Time UTC">
-            <value>8/1/2026 6:07:30 PM</value>
+            <value>8/1/2026 6:17:30 PM</value>
           </Data>
           <Data name="Time">
-            <value>8/1/2026 6:07:30 PM</value>
+            <value>8/1/2026 6:17:30 PM</value>
           </Data>
           <Data name="Name">
             <value>Liz Howell </value>
@@ -81,19 +81,19 @@
             <value />
           </Data>
           <Data name="Latitude">
-            <value>36.610833</value>
+            <value>36.611981</value>
           </Data>
           <Data name="Longitude">
-            <value>-105.190015</value>
+            <value>-105.189650</value>
           </Data>
           <Data name="Elevation">
-            <value>2958.68 m from MSL</value>
+            <value>2985.66 m from MSL</value>
           </Data>
           <Data name="Velocity">
-            <value>0.0 km/h</value>
+            <value>3.0 km/h</value>
           </Data>
           <Data name="Course">
-            <value>0.00 ° True</value>
+            <value>67.50 ° True</value>
           </Data>
           <Data name="Valid GPS Fix">
             <value>True</value>
@@ -120,7 +120,7 @@
         <Point>
           <extrude>false</extrude>
           <altitudeMode>absolute</altitudeMode>
-          <coordinates>-105.190015,36.610833,2958.68</coordinates>
+          <coordinates>-105.18965,36.611981,2985.66</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -130,7 +130,7 @@
         <styleUrl>#linestyle_6606925</styleUrl>
         <LineString>
           <tessellate>true</tessellate>
-          <coordinates>-105.190015,36.610833,2958.68</coordinates>
+          <coordinates>-105.18965,36.611981,2985.66</coordinates>
         </LineString>
       </Placemark>
     </Folder>
